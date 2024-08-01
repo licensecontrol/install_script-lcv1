@@ -17,5 +17,10 @@ The script currently supports the installation of the following software:
 
 ## Usage
 
-   https://github.com/licensecontrol/install_script-lcv1/blob/main/install_script.sh
+  git clone https://github.com/licensecontrol/install_script-lcv1.git
+cd licensecontrol/install_script-lcv1
+chmod +x install.sh
+./install.sh
+
+
 
